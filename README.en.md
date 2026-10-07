@@ -1,42 +1,33 @@
-# VIPAI — ChatGPT Plus / Pro Recharge, Renewal & Codex-related Services
+# VIPAI — ChatGPT Recharge & Codex Service Buying Guides
 
-**AI subscription services · ChatGPT recharge · ChatGPT Plus renewal · ChatGPT Pro subscription · Codex-related products · Claude API credits**
+[VIPAI / AI 极速补给站](https://vipai.pro/) offers AI subscription and digital-service products. This repository explains what to check before ordering ChatGPT Plus / Pro recharge or renewal services, how to distinguish Codex-related products, and how to verify delivery.
 
-## Visit VIPAI
+**[Browse current products](https://vipai.pro/products)** · [Purchase notices](https://vipai.pro/notice) · [中文](README.md)
 
-**[Browse AI 极速补给站 at vipai.pro](https://vipai.pro/)**
+This repository is a commercial introduction to VIPAI, an independent third-party service, published by its operator. It is not an official OpenAI, ChatGPT, Codex or Anthropic repository and does not imply their authorization or endorsement.
 
-[Product catalog](https://vipai.pro/products) · [Guest order lookup](https://vipai.pro/guest/orders) · [After-sales information](https://vipai.pro/after-sales) · [中文说明](README.md)
+## Practical guides
 
-This repository is a commercial introduction to VIPAI, an independent third-party service. It is not an official OpenAI, ChatGPT, Codex or Anthropic repository and does not imply their authorization or endorsement.
+The detailed guides are in Chinese.
 
-## Available product categories
-
-| Category | What to check before ordering |
+| Question | Guide |
 | --- | --- |
-| ChatGPT Plus recharge and renewal | Account region, existing subscription and renewal eligibility |
-| ChatGPT Pro subscription and upgrades | Product tier, payment channel and upgrade requirements |
-| iOS gift-card channel products | Region, activation timing and subscription compatibility |
-| Codex-related products | Product type, account eligibility and applicable platform rules |
-| Claude intermediary API credits | Provider, supported interface, credit validity and usage conditions |
+| Does this product fit my account and existing subscription? | [Account and purchase-channel checklist](guides/before-purchase.md) |
+| Are subscriptions, credits and API balances interchangeable? | [Subscription, credit and API distinctions](guides/subscription-credits-api.md) |
+| How do I check delivery or report a problem? | [Order verification and support](guides/order-check-and-support.md) |
 
-The catalog currently lists Codex referral-related credits and SMS verification products. These should not be described collectively as official Codex credit top-ups. Check the exact product and applicable rules. Intermediary Claude API credits are not an Anthropic account balance or a Claude Pro / Max subscription.
+## Choose by the actual delivery terms
 
-## How to order
+For ChatGPT Plus / Pro services, check the original billing channel, current subscription, target tier and start date. For Codex-related products, identify whether the offer concerns a subscription, credits or promotional eligibility; a Codex label does not make a product an official credit top-up.
 
-1. Open the [catalog](https://vipai.pro/products).
-2. Review eligibility, current price, stock, delivery method and after-sales terms.
-3. Follow the instructions on the selected product page.
-4. Keep your order details and use [guest order lookup](https://vipai.pro/guest/orders) or your account's order page.
+Intermediary Claude API credits belong to the stated service provider. They are not an Anthropic account balance or a Claude Pro / Max subscription. Confirm the provider, endpoint, billing unit and expiry before buying.
 
-Prices and delivery times vary by product. This repository does not promise instant delivery for every order. Use the support contact published on the website for assistance; do not post account credentials or private order details in public GitHub issues.
+Prices, stock, eligibility and delivery times depend on the selected [product](https://vipai.pro/products). This repository does not promise instant delivery, unlimited usage or risk-free purchases.
 
-## Find the right service
+## Orders and support
 
-Looking for **ChatGPT recharge**, **ChatGPT top-up**, **ChatGPT Plus subscription renewal**, **ChatGPT Pro recharge**, **Codex-related services**, or **Claude API credits**? Start with the catalog and verify that the chosen product matches your account and use case.
+Keep your order details. Check [guest order lookup](https://vipai.pro/guest/orders) or your signed-in order page, then compare delivery with the selected product's terms. Use the support contact published on the website for discrepancies. Never post passwords, verification codes, API keys or private order details in public GitHub issues.
 
-**[Explore current VIPAI products](https://vipai.pro/products)**
+[After-sales information](https://vipai.pro/after-sales) · [Terms](https://vipai.pro/terms) · [Privacy](https://vipai.pro/privacy)
 
-[Terms](https://vipai.pro/terms) · [Privacy](https://vipai.pro/privacy) · [After-sales](https://vipai.pro/after-sales)
-
-Catalog checked on October 7, 2026. Availability, eligibility and terms may change. Third-party trademarks belong to their respective owners.
+Updated October 7, 2026. These guides do not replace product terms or platform rules. Third-party trademarks belong to their respective owners.
