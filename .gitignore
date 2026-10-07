@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+*.db
+*.sqlite*
+*.session*
+logs/
+work/
+outputs/
+.planning/
+HANDOFF.md
